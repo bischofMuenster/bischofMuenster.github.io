@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: Below you can get access to all my published work. 
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
