@@ -5,16 +5,9 @@ permalink: /bio/
 description: # A growing collection of your cool projects.
 nav: true
 horizontal: false
+cv_pdf: danielbischof_cv.pdf
 order: 2
 ---
-
-          <a
-            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="float-right"
-            ><i class="fa-solid fa-file-pdf"></i
-          ></a>
 
 {:refdef: style="text-align: center;"}
 [CV as PDF]({{ site.baseurl }}/assets/pdf/danielbischof_cv.pdf) 
