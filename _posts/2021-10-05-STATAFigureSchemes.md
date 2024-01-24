@@ -7,9 +7,10 @@ description: this post gives a quick overview about the Stata figure schemes I'v
 
 Throughout the years, I have created several Stata figure schemes. This post gives you a brief overview about what I produced. If you want to learn more I would push you to read my Stata article on figure schemes (and some of the work Ben Jann has done). 
 
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/plotplain.png">
+        {% include figure.liquid path="assets/img/plotplain.png" class="img-fluid rounded z-depth-1" zoomable=true %}
         *plotplain*
     </div>
     <div class="col-sm mt-3 mt-md-0">
