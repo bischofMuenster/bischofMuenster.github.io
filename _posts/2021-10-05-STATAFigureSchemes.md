@@ -14,11 +14,11 @@ Throughout the years, I have created several Stata figure schemes. This post giv
         *plotplain*
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/plottig.png">
+        {% include figure.liquid path="assets/img/plottig.png" class="img-fluid rounded z-depth-1" zoomable=true %}
         *plottig*
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/538.jpg">
+        {% include figure.liquid path="assets/img/538.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         *538.jpg*
     </div>
 </div>
