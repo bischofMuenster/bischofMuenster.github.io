@@ -1,7 +1,7 @@
 ---
 layout: page
-title: bio & research interests
-permalink: /bio/
+title: research 
+permalink: /research/
 description: # A growing collection of your cool projects.
 nav: true
 horizontal: false

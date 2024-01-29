@@ -1,14 +1,4 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Experience
+- title: Academic Positions
   type: time_table
   contents:
     - title: Professor in Comparative Politics
@@ -42,10 +32,10 @@
 - title: Ongoing Projects
   type: time_table
   contents:
-    - title: <a href="https://demnorm.github.io">DEMNORM _(approx. 1 Million Euro funded by Carlsberg Foundation & AUFF)_</a>
+    - title: <a href="https://demnorm.github.io">DEMNORM (approx. 1 Million Euro funded by Carlsberg Foundation & AUFF)</a>
       year: 2021-now
       description: My team and I seek to understand the role of social norms for democracy. 
-    - title: <a href="https://extremeentrance.github.io">Extreme Entrance _(approx. 700,000 Euros funded by Swiss National Science Foundation)_</a>
+    - title: <a href="https://extremeentrance.github.io">Extreme Entrance (approx. 700,000 Euros funded by Swiss National Science Foundation)</a>
       year: 2019-2023
       description: In my SNSF Ambizione project, my research team and I tried to understand the causes and consequences of radical party emergence. 
 
