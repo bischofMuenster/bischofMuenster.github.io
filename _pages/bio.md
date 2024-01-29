@@ -1,30 +1,13 @@
 ---
 layout: page
-title: bio & CV
+title: bio & research interests
 permalink: /bio/
 description: # A growing collection of your cool projects.
 nav: true
 horizontal: false
 cv_pdf: danielbischof_cv.pdf
-order: 2
+nav_order: 3
 ---
-
-{:refdef: style="text-align: center;"}
-[CV as PDF]({{ site.baseurl }}/assets/pdf/danielbischof_cv.pdf) 
-{: refdef}
-&nbsp;
-
-*  2023 – today: **Professor (W3)** in Comparative Politics, University of Münster 
-*  2021 – today: **Associate Professor (tenured)** in Political Science, Aarhus University
-*  2019 – 2023: **Ambizione Grant Holder**, University of Zurich
-*  2016 – 2018: **Associated Lecturer**, ETH Zurich
-*  2015 – 2019: **Senior Researcher (Oberassistent)**, University of Zurich
-*  2012 – 2016: **PhD Student** in Political Science, University of Leicester
-*  2006 – 2012: **Student** in Political Science & Economics, University of Bamberg
-
-
-
-&nbsp;
 
 ## Short Bio:
 

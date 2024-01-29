@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A brief overview of my past and ongoing research projects.
 nav: true
-nav_order: 3
+nav_order: 7
 display_categories: [ongoing, finished]
 horizontal: false
 ---
